@@ -3,7 +3,6 @@
 
 ## Table of Contents
 - [Employee Tracker App](#employee-tracker-app)
-  - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Usage](#usage)
   - [Acceptance Criteria](#acceptance-criteria)
