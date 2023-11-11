@@ -13,7 +13,7 @@
 ## Description
 This application is a Node.js-based command-line interface (CLI) for managing an employee database, allowing users to interactively view, add, and update various aspects of employee data. Utilizing inquirer for user prompts and mysql2 for database operations, the application enables tasks such as viewing all departments, roles, and employees, adding new departments, roles, and employees, and updating employees' roles. It's designed to streamline HR and management tasks by providing a user-friendly interface for handling common database operations without the need for direct interaction with the database or SQL commands, enhancing efficiency in managing employee-related data.
 
-Link to this repository: 
+Link to this repository: https://github.com/Sarkissian321/employee-tracker-app
 
 ## Usage
 https://github.com/Sarkissian321/employee-tracker-app/assets/142841411/68bb687b-3656-4bbf-a641-693efc34b454
