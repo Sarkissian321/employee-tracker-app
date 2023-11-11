@@ -16,7 +16,7 @@ This application is a Node.js-based command-line interface (CLI) for managing an
 Link to this repository: 
 
 ## Usage
-
+https://github.com/Sarkissian321/employee-tracker-app/assets/142841411/68bb687b-3656-4bbf-a641-693efc34b454
 
 ## Acceptance Criteria 
 
