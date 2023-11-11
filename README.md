@@ -6,7 +6,7 @@
   - [Table of Contents](#table-of-contents)
   - [Description](#description)
   - [Usage](#usage)
-    - [Acceptance Criteria](#acceptance-criteria)
+  - [Acceptance Criteria](#acceptance-criteria)
   - [Installation](#installation)
   - [Contributing](#contributing)
   - [Questions](#questions)
@@ -19,7 +19,7 @@ Link to this repository:
 ## Usage
 
 
-### Acceptance Criteria 
+## Acceptance Criteria 
 
 ```md
 GIVEN a command-line application that accepts user input
